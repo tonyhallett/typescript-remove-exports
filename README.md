@@ -1,10 +1,10 @@
-#typescript-remove-exports
+# typescript-remove-exports
 
-##Why
+## Why
 
 Useful if you have a typescript file that you want to test that is not a module.
 
-##How
+## How
 
 Add export keyword to the functions that you want to test.
 e.g fileWithExport.ts
